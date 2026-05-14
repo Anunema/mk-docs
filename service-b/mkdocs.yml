@@ -1,0 +1,10 @@
+site_name: Service B Documentation
+site_description: Documentation for Service B in mono repository
+repo_url: https://github.com/Anunema/mk-docs
+
+nav:
+  - Home: index.md
+  - API Reference: api.md
+
+theme:
+  name: material

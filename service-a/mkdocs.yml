@@ -1,0 +1,10 @@
+site_name: Service A Documentation
+site_description: Documentation for Service A in mono repository
+repo_url: https://github.com/Anunema/mk-docs
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+
+theme:
+  name: material
