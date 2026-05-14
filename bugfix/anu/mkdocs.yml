@@ -1,0 +1,9 @@
+site_name: Bugfix Anu Documentation
+site_description: Testing mono repository with custom subdirectory path
+repo_url: https://github.com/Anunema/mk-docs
+
+nav:
+  - Home: index.md
+
+theme:
+  name: material
